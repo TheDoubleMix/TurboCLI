@@ -1,15 +1,16 @@
 [tool.poetry]
-name = "cli"  # The name of your package
-version = "0.1.0"  # The version of your package
-description = "A simple Python package for CLI tools"  # A short description of your project
-authors = ["example <name@example.com>"]  # Replace with your actual name and email
-license = "MIT"  # Your license (MIT in this case)
-homepage = "https://github.com/TheDoubleMix/cli"  # Your GitHub repository URL
-repository = "https://github.com/TheDoubleMix/cli"  # Your GitHub repository URL (again)
+name = "cli"
+version = "0.1.0"
+description = "A simple Python package for CLI tools"
+authors = ["Juho Jokisalo <xboxj2012@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/TheDoubleMix/cli"
+repository = "https://github.com/TheDoubleMix/cli"
 
 [tool.poetry.dependencies]
-python = "^3.12.9"  # Minimum Python version required (you can specify caret notation for minor versions)
+python = "^3.12.9"
 
 [build-system]
-requires = ["poetry>=1.0.0"]  # Poetry is required for building
-build-backend = "poetry.masonry.api"  # Specifies the Poetry build backend
+requires = ["poetry>=1.0.0"] 
+build-backend = "poetry.masonry.api"
+xboxj2012
