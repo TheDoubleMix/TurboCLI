@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Distribution files
+*.tar.gz
+*.zip
+*.whl
+
+# Poetry specific files
+poetry.lock
+.poetry/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
