@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cli"
+name = "TurboCLI"
 version = "0.1.0"
 description = "A simple Python package for CLI tools"
 authors = ["Juho Jokisalo <xboxj2012@gmail.com>"]
