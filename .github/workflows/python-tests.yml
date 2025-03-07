@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Use an older Ubuntu version that should support Python 3.7
     
     steps:
       - name: Checkout repository
