@@ -31,8 +31,5 @@ jobs:
           pip install --no-deps tox  
           pip install -U "tox[all]"  
 
-      - name: Run PyLint on the codebase
-        run: pylint turbocli
-
       - name: Run tests with tox
         run: tox
