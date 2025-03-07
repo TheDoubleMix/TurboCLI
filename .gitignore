@@ -20,6 +20,12 @@ build/
 dist/
 *.egg-info/
 
+# Tox
+.tox/
+
+# Pytest
+.pytest_cache/
+
 # Distribution files
 *.tar.gz
 *.zip

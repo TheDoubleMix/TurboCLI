@@ -1,4 +1,4 @@
-# CLI Hex Viewer
+# TurboCLI
 
 A simple Python package for displaying CLI Tools.
 
@@ -8,13 +8,13 @@ A simple Python package for displaying CLI Tools.
 ## Example Usage:
 
 ```python
-from cli import showhex
+from turbocli import hexdump
 
-# Example byte sequence
+# Example byte sequence (DEADBEEF)
 data = b'\xde\xad\xbe\xef'
 
 # Display the hex dump
-showhex(data)
+print(hexdump(data))
 ```
 ### Expected Output:
 ```
