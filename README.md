@@ -1,3 +1,7 @@
+![Tests](https://github.com/TheDoubleMix/TurboCLI/actions/workflows/python-tests.yml/badge.svg)
+![Python versions](https://img.shields.io/pypi/pyversions/TurboCLI)
+![Pypi Package](https://img.shields.io/pypi/v/TurboCLI)
+
 # TurboCLI
 
 A simple Python package for displaying CLI Tools.
