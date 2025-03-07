@@ -1,6 +1,6 @@
-![Tests](https://github.com/TheDoubleMix/TurboCLI/actions/workflows/python-tests.yml/badge.svg)
-![Python versions](https://img.shields.io/pypi/pyversions/TurboCLI)
-![Pypi Package](https://img.shields.io/pypi/v/TurboCLI)
+[![Tests](https://github.com/TheDoubleMix/TurboCLI/actions/workflows/python-tests.yml/badge.svg)](https://github.com/TheDoubleMix/TurboCLI/actions)
+[![Python versions](https://img.shields.io/pypi/pyversions/TurboCLI)](https://pypi.org/project/TurboCLI/)
+[![Pypi Package](https://img.shields.io/pypi/v/TurboCLI)](https://pypi.org/project/TurboCLI/)
 
 # TurboCLI
 
